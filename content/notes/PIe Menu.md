@@ -1,3 +1,6 @@
+---
+title: "PIe Menu"
+---
 The design constraints of a pie menu are influenced to two priniciples
 
 Fitt's Law

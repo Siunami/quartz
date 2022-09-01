@@ -1,3 +1,6 @@
+---
+title: "Feedback Loops"
+---
 Domain expertise in people is built from having a lot of timely feedback and repetitions in their environment ^[[Feedback Loops#^21cc49]]
 
 Daniel Kahneman, in comparing Anesthesiologists and Radiologists, they found that Radiologists were only able to predict the presence of breast cancer 70% of the time. This is due to slower feedback loops in prediction and feedback (appearance or non-appearance of breast cancer). ^[[Feedback Loops#^21cc49]]

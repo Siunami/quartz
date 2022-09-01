@@ -1,3 +1,6 @@
+---
+title: "Compound interest"
+---
 Looking for simple examples of principles to make them more tangible. Especially ones with smaller [[Feedback Loops]]. That way it is easier to learn them.
 
 Compound interest

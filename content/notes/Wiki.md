@@ -1,3 +1,6 @@
+---
+title: "Wiki"
+---
 A good wiki is a narrative factory. Every path of links that you take through it makes for an interesting story.
 
 

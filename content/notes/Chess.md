@@ -1,3 +1,6 @@
+---
+title: "Chess"
+---
 
 Development in chess is the process of getting your pieces into position for an offensive. ^580040
 

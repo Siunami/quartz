@@ -1,3 +1,6 @@
+---
+title: "Regret Minimization"
+---
 A framework for making big decisions. At the end of your life, you want to minimize the number of regrets you had in life. So looking at this crossroads in your life, what decision would you not regret and which would?
 
 Oftentimes, it's as simple as trying something you believe to be important. It is unlikely that you regret having tried. It is likely you will wonder "what if" for the rest of your life if you didn't try.
