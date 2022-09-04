@@ -13,10 +13,6 @@ Shorter feedback loop
 
 Physical exercise, you can see the compounding value of it much faster. You're strength, endurance, health and mind benefit incredibly fast.
 
-In chess, there is the idea of development.
-![[Chess#^580040]]
-Investing the time to prepare a more coordinated attack that includes all your pieces can lead to more successful offensives.
-
 I also believe this [[Wiki]] will see compounding benefits to my thinking over time. For example, Gordon Brander, who is currently building a tool called [Subconscious](https://subconscious.substack.com/) alongside [Noosphere](https://subconscious.substack.com/p/noosphere-a-protocol-for-thought), keeps up a wiki of [patterns](https://gordonbrander.com/pattern) that he accumulated over time. This has led to a very principled approach to his thinking for his current projects. ^7a0047
 
 
