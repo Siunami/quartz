@@ -9,5 +9,5 @@ Oftentimes, it's as simple as trying something you believe to be important. It i
 - This long term perspective can make decisions incredibly easy.
 - Helps you zoom out from the daily pieces of confusion. Ex: For Jeff, he walked out of a Wall Street Firm mid-year skipping the bonus to start an internet company.
 
-Part of my [[Personal Compass]]
+Part of my [[notes/Personal Compass|Personal Compass]]
 
