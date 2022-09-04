@@ -1,5 +1,5 @@
 ---
-title: "PIe Menu"
+title: "Pie Menu"
 ---
 The design constraints of a pie menu are influenced to two priniciples
 
